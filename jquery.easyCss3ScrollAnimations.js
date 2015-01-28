@@ -23,7 +23,7 @@
     };
     
     
-    $.fn.easyCss3Animation = function(options) {
+    $.fn.easyCss3ScrollAnimations = function(options) {
         var $elems = this;
     
         var settings = $.extend( {

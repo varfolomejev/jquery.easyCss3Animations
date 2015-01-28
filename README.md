@@ -1,7 +1,7 @@
 jquery.easyCss3Animations plugin
 ===============
 
-Extend $.easyCss3Animation().
+Extend $.easyCss3ScrollAnimations().
 
 
 Properties supported:
@@ -22,7 +22,7 @@ Usage
 -----------------
 
 ```javascript
-    $('.animated').easyCss3Animation({hideElements: true});
+    $('.animated').easyCss3ScrollAnimations({hideElements: true});
 ```
 
 ```html
