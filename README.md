@@ -1,4 +1,4 @@
-jquery.easyCss3Animations plugin
+jquery.easyCss3ScrollAnimations plugin
 ===============
 
 Extend $.easyCss3ScrollAnimations().
