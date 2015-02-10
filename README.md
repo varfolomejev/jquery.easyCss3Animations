@@ -20,6 +20,13 @@ For example, I used the css library animate.css
 
 Usage
 -----------------
+I use to animate the style library https://github.com/daneden/animate.css. 
+
+For the script, you must specify the desired animation attribute "data-classes", you can use multiple animations.
+
+All the elements I recommend to add class animated.
+
+Examples:
 
 ```javascript
     $('.animated').easyCss3ScrollAnimations({hideElements: true});
